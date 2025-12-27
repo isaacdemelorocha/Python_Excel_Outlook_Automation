@@ -39,6 +39,8 @@ python email_automatico_outlook.py
 
 ```
 
+## 💡 E-mail Gerado:
+
 <img width="923" height="745" alt="image" src="https://github.com/user-attachments/assets/0a638638-76a3-421e-8a77-19a244655031" />
 
 
