@@ -48,4 +48,4 @@ python email_automatico_outlook.py
 
 ---
 
-**Desenvolvido para otimizar processos de compliance e treinamento.** 📈
+**Desenvolvido para otimizar processos de report de treinamento.** 📈
