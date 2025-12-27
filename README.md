@@ -39,6 +39,10 @@ python email_automatico_outlook.py
 
 ```
 
+## 💡 Código Python em ação:
+![gif_python](https://github.com/user-attachments/assets/fb7390c6-343c-44c4-999f-2ad6b07cc8e9)
+
+
 ## 💡 E-mail Gerado:
 
 <img width="923" height="745" alt="image" src="https://github.com/user-attachments/assets/0a638638-76a3-421e-8a77-19a244655031" />
